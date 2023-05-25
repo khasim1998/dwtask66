@@ -1,0 +1,6 @@
+{
+"EmpSalary" : 10000,
+ "EmpName" : "khasim",
+ "TypeofEmploye" : "Regular",
+ "Country" : ["India", "newyork","drench","ireland","america"]
+ }
